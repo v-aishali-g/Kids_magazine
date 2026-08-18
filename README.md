@@ -8,7 +8,7 @@ An interactive **Kids Magazine App** built with **Flutter** to provide children 
 *  **Interactive Quiz System** — Test children's understanding through quizzes.
 *  **Progress Tracking** — Track quiz scores and learning progress.
 *  **Firebase Integration** — Store quiz scores and learner progress securely in real time.
-* 📱 **Responsive Flutter UI** — Designed for a smooth experience across mobile devices.
+*  **Responsive Flutter UI** — Designed for a smooth experience across mobile devices.
 *  **Learning Through Interaction** — Combines reading and quizzes to encourage active learning.
 
 ##  Tech Stack
@@ -145,7 +145,7 @@ You can then add them to this README:
 
 ##  Future Improvements
 
-* 👤 User authentication and personalized profiles
+*  User authentication and personalized profiles
 *  Leaderboards and achievement badges
 *  More interactive educational games
 *  Detailed learning analytics
